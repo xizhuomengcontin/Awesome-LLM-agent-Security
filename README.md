@@ -315,6 +315,7 @@ Dynamic Interaction: Agents can adapt their actions based on real-time observati
 
 
 ### Community Resources
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — a tool for recording and replaying AI agent runs.
 
 - [OWASP AI Agent Security Project](https://github.com/precize/OWASP-Agentic-AI/) - Official repository
 - [OWASP Slack #team-llm-autonomus-agents](https://owasp.slack.com/archives/team-llm-autonomus-agents) - Community discussions
